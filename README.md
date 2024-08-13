@@ -12,5 +12,6 @@ We also did some data analysis in python displaying peoples stress detection usi
 ---
 # Links
 - Devepost Link [Here](https://devpost.com/software/lavu).
-- Sensor Data[Here] (https://www.youtube.com/watch?v=D1cZ__7crLs).
-- App [Here] (https://youtu.be/eU9GDsAC6uc)
+- Sensor Data[Here](https://www.youtube.com/watch?v=D1cZ__7crLs).
+- App [Here](https://youtu.be/eU9GDsAC6uc)
+- ML Stress Levels Presentation[Here](https://docs.google.com/presentation/d/1AAloD7JH3Cn11qMDscGNobhgxntSj-e7rq_FswylN0I/edit?usp=sharing)
